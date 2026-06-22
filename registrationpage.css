@@ -1,0 +1,34 @@
+body{
+    background-color: rebeccapurple;
+    margin: 0px;
+    padding: 0px;
+}
+
+.registrationbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table{
+    padding: 20px 30px; 
+    background-color: black;
+    color: white;
+}
+
+td {
+   padding: 6px;
+}
+
+button{
+    height: 20px;
+    width: 70px;
+    background-color: brown;
+    color: yellow;
+    cursor: pointer;
+}
+
+h1{
+    color: greenyellow;
+    
+}
